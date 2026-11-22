@@ -1,0 +1,1907 @@
+{
+  "format": "moyan-prompts-v1",
+  "version": 1,
+  "updatedAt": "2026-11-22",
+  "questions": [
+    {
+      "id": "bio-001",
+      "category": "bio",
+      "level": "入門",
+      "title": "頭部基本體塊",
+      "description": "以球體、下顎與中軸線構築一顆三分之四側臉。",
+      "requirements": [
+        "顱骨與下顎轉折",
+        "眉眼鼻的中心線",
+        "明確的受光面"
+      ],
+      "focus": [
+        "體塊",
+        "比例",
+        "線條主次"
+      ],
+      "minutes": 25,
+      "version": 1
+    },
+    {
+      "id": "bio-002",
+      "category": "bio",
+      "level": "入門",
+      "title": "手掌與五指",
+      "description": "畫一隻自然張開的手，注意掌骨與指節的長度。",
+      "requirements": [
+        "掌心體塊",
+        "五指節段",
+        "近遠指遮擋"
+      ],
+      "focus": [
+        "解剖",
+        "線條",
+        "空間"
+      ],
+      "minutes": 25,
+      "version": 1
+    },
+    {
+      "id": "bio-003",
+      "category": "bio",
+      "level": "入門",
+      "title": "動態站姿人物",
+      "description": "用動勢線描繪重心落在單腳的人物全身。",
+      "requirements": [
+        "頭胸骨盆傾斜",
+        "承重腿",
+        "放鬆腿"
+      ],
+      "focus": [
+        "重心",
+        "動勢",
+        "比例"
+      ],
+      "minutes": 25,
+      "version": 1
+    },
+    {
+      "id": "bio-004",
+      "category": "bio",
+      "level": "入門",
+      "title": "人體側面輪廓",
+      "description": "以側面剪影畫站姿人物，不先畫五官衣褶。",
+      "requirements": [
+        "頭胸骨盆外形",
+        "脊椎弧線",
+        "雙腳支撐"
+      ],
+      "focus": [
+        "剪影",
+        "比例",
+        "負空間"
+      ],
+      "minutes": 25,
+      "version": 1
+    },
+    {
+      "id": "bio-005",
+      "category": "bio",
+      "level": "入門",
+      "title": "手臂彎曲肌群",
+      "description": "畫一隻屈肘握拳的手臂，呈現肌肉塊的包覆。",
+      "requirements": [
+        "上臂前後量感",
+        "肘部轉折",
+        "前臂旋轉"
+      ],
+      "focus": [
+        "解剖",
+        "肌群",
+        "形體"
+      ],
+      "minutes": 25,
+      "version": 1
+    },
+    {
+      "id": "bio-006",
+      "category": "bio",
+      "level": "入門",
+      "title": "奔跑中的腿部",
+      "description": "只畫骨盆以下的跨步瞬間，保留主要運動方向。",
+      "requirements": [
+        "骨盆方向",
+        "膝關節位置",
+        "足部接地姿態"
+      ],
+      "focus": [
+        "動態",
+        "關節",
+        "透視"
+      ],
+      "minutes": 25,
+      "version": 1
+    },
+    {
+      "id": "bio-007",
+      "category": "bio",
+      "level": "入門",
+      "title": "閉眼表情研究",
+      "description": "同一人物畫平靜、痛苦、喜悅三種閉眼表情。",
+      "requirements": [
+        "眉眼區變化",
+        "嘴角差異",
+        "面部肌肉拉扯"
+      ],
+      "focus": [
+        "表情",
+        "節奏",
+        "一致性"
+      ],
+      "minutes": 25,
+      "version": 1
+    },
+    {
+      "id": "bio-008",
+      "category": "bio",
+      "level": "入門",
+      "title": "踮腳芭蕾姿態",
+      "description": "畫一位踮腳伸展手臂的舞者全身。",
+      "requirements": [
+        "支撐腳",
+        "肩胛連動",
+        "動作弧線"
+      ],
+      "focus": [
+        "平衡",
+        "動勢",
+        "優雅"
+      ],
+      "minutes": 25,
+      "version": 1
+    },
+    {
+      "id": "bio-009",
+      "category": "bio",
+      "level": "入門",
+      "title": "坐姿人物縮短",
+      "description": "從稍高視角畫雙膝靠近鏡頭的坐姿。",
+      "requirements": [
+        "大腿透視縮短",
+        "手掌搭膝",
+        "頭身空間關係"
+      ],
+      "focus": [
+        "透視",
+        "比例",
+        "遮擋"
+      ],
+      "minutes": 25,
+      "version": 1
+    },
+    {
+      "id": "bio-010",
+      "category": "bio",
+      "level": "入門",
+      "title": "短髮人像光影",
+      "description": "畫側上方單光源照射的短髮頭像。",
+      "requirements": [
+        "明暗交界線",
+        "髮束分組",
+        "耳頸連接"
+      ],
+      "focus": [
+        "光影",
+        "體積",
+        "筆觸"
+      ],
+      "minutes": 25,
+      "version": 1
+    },
+    {
+      "id": "bio-011",
+      "category": "bio",
+      "level": "入門",
+      "title": "雙人互動重心",
+      "description": "畫兩個人推拉同一扇重門的互動。",
+      "requirements": [
+        "兩人動勢呼應",
+        "手部接觸點",
+        "地面受力姿態"
+      ],
+      "focus": [
+        "敘事",
+        "動作",
+        "構圖"
+      ],
+      "minutes": 25,
+      "version": 1
+    },
+    {
+      "id": "bio-012",
+      "category": "bio",
+      "level": "進階",
+      "title": "老人手部特寫",
+      "description": "畫一雙握著茶杯的年長者手。",
+      "requirements": [
+        "指關節骨點",
+        "皮膚皺褶",
+        "杯柄接觸"
+      ],
+      "focus": [
+        "觀察",
+        "材質",
+        "線條"
+      ],
+      "minutes": 45,
+      "version": 1
+    },
+    {
+      "id": "bio-013",
+      "category": "bio",
+      "level": "進階",
+      "title": "角色三視圖",
+      "description": "設計同一個原創人物正、側、背三視圖。",
+      "requirements": [
+        "三視圖頭身比例一致",
+        "服裝辨識點",
+        "髮型量感"
+      ],
+      "focus": [
+        "角色設定",
+        "一致性",
+        "比例"
+      ],
+      "minutes": 45,
+      "version": 1
+    },
+    {
+      "id": "bio-014",
+      "category": "bio",
+      "level": "進階",
+      "title": "貓咪蜷縮",
+      "description": "畫蜷縮熟睡的貓，先抓整體圓弧。",
+      "requirements": [
+        "肩背弧線",
+        "前後腳的遮擋",
+        "尾巴包覆"
+      ],
+      "focus": [
+        "輪廓",
+        "體積",
+        "毛感"
+      ],
+      "minutes": 45,
+      "version": 1
+    },
+    {
+      "id": "bio-015",
+      "category": "bio",
+      "level": "進階",
+      "title": "奔跑中的獵豹",
+      "description": "用側面動作定格畫出獵豹高速奔跑。",
+      "requirements": [
+        "脊椎伸縮",
+        "四肢節奏",
+        "頭尾平衡"
+      ],
+      "focus": [
+        "動勢",
+        "動物解剖",
+        "速度"
+      ],
+      "minutes": 45,
+      "version": 1
+    },
+    {
+      "id": "bio-016",
+      "category": "bio",
+      "level": "進階",
+      "title": "鳥類展翅",
+      "description": "畫一隻鳥從前上方展翅飛行。",
+      "requirements": [
+        "兩側翅膀透視",
+        "羽毛群組",
+        "胸骨體積"
+      ],
+      "focus": [
+        "透視",
+        "羽翼",
+        "對稱"
+      ],
+      "minutes": 45,
+      "version": 1
+    },
+    {
+      "id": "bio-017",
+      "category": "bio",
+      "level": "進階",
+      "title": "鹿角與頭頸",
+      "description": "畫三分之四角度的雄鹿頭像與鹿角。",
+      "requirements": [
+        "鹿角前後分支",
+        "鼻吻轉折",
+        "耳朵方向"
+      ],
+      "focus": [
+        "結構",
+        "自然形態",
+        "層次"
+      ],
+      "minutes": 45,
+      "version": 1
+    },
+    {
+      "id": "bio-018",
+      "category": "bio",
+      "level": "進階",
+      "title": "魚類流線",
+      "description": "畫一條轉彎中的大型魚，強調身體扭轉。",
+      "requirements": [
+        "身體中軸曲線",
+        "背鰭尾鰭",
+        "遠近鱗片變化"
+      ],
+      "focus": [
+        "曲線",
+        "動態",
+        "體積"
+      ],
+      "minutes": 45,
+      "version": 1
+    },
+    {
+      "id": "bio-019",
+      "category": "bio",
+      "level": "進階",
+      "title": "昆蟲外骨骼",
+      "description": "畫甲蟲的放大結構速寫，呈現硬殼光澤。",
+      "requirements": [
+        "頭胸腹分段",
+        "六足接點",
+        "甲殼反光"
+      ],
+      "focus": [
+        "分節",
+        "材質",
+        "細節"
+      ],
+      "minutes": 45,
+      "version": 1
+    },
+    {
+      "id": "bio-020",
+      "category": "bio",
+      "level": "進階",
+      "title": "馬匹立起",
+      "description": "畫前腳騰空的馬，呈現胸腔與骨盆力量。",
+      "requirements": [
+        "胸腹體塊",
+        "後腿承重",
+        "鬃毛方向"
+      ],
+      "focus": [
+        "動勢",
+        "動物解剖",
+        "線條"
+      ],
+      "minutes": 45,
+      "version": 1
+    },
+    {
+      "id": "bio-021",
+      "category": "bio",
+      "level": "進階",
+      "title": "狼群前後景",
+      "description": "畫三隻狼在不同景深中穿越雪地。",
+      "requirements": [
+        "近中遠大小",
+        "視線方向",
+        "腳印透視"
+      ],
+      "focus": [
+        "構圖",
+        "景深",
+        "氛圍"
+      ],
+      "minutes": 45,
+      "version": 1
+    },
+    {
+      "id": "bio-022",
+      "category": "bio",
+      "level": "進階",
+      "title": "水母透明質感",
+      "description": "畫漂浮水中的水母，傳達半透明與柔軟。",
+      "requirements": [
+        "傘體厚薄",
+        "觸手節奏",
+        "內部層次"
+      ],
+      "focus": [
+        "透明材質",
+        "曲線",
+        "光感"
+      ],
+      "minutes": 45,
+      "version": 1
+    },
+    {
+      "id": "bio-023",
+      "category": "bio",
+      "level": "進階",
+      "title": "蝙蝠翅膜",
+      "description": "畫俯視飛行蝙蝠，解讀骨架支撐翅膜。",
+      "requirements": [
+        "指骨展開",
+        "左右翅膜張力",
+        "軀幹視角"
+      ],
+      "focus": [
+        "自然結構",
+        "透視",
+        "節奏"
+      ],
+      "minutes": 45,
+      "version": 1
+    },
+    {
+      "id": "bio-024",
+      "category": "bio",
+      "level": "挑戰",
+      "title": "青蛙跳躍",
+      "description": "畫青蛙躍出水面的瞬間，加入少量水花。",
+      "requirements": [
+        "後腿折疊與伸展",
+        "濕潤皮膚",
+        "動作方向"
+      ],
+      "focus": [
+        "動態",
+        "材質",
+        "敘事"
+      ],
+      "minutes": 75,
+      "version": 1
+    },
+    {
+      "id": "bio-025",
+      "category": "bio",
+      "level": "挑戰",
+      "title": "蛇盤繞樹枝",
+      "description": "畫蛇繞枝三圈，讓身體前後關係清晰。",
+      "requirements": [
+        "蛇身粗細變化",
+        "枝幹交錯",
+        "頭部焦點"
+      ],
+      "focus": [
+        "遮擋",
+        "體積",
+        "線條"
+      ],
+      "minutes": 75,
+      "version": 1
+    },
+    {
+      "id": "bio-026",
+      "category": "bio",
+      "level": "挑戰",
+      "title": "龍的頭骨設計",
+      "description": "以爬蟲與猛禽結構為參考創作龍頭。",
+      "requirements": [
+        "顱骨與口吻",
+        "角與下顎接合",
+        "表情視線"
+      ],
+      "focus": [
+        "幻想生物",
+        "可信度",
+        "輪廓"
+      ],
+      "minutes": 75,
+      "version": 1
+    },
+    {
+      "id": "bio-027",
+      "category": "bio",
+      "level": "挑戰",
+      "title": "精靈與自然共生",
+      "description": "設計一位身上長有植物的精靈角色。",
+      "requirements": [
+        "植物與肢體銜接",
+        "剪影辨識",
+        "主次細節"
+      ],
+      "focus": [
+        "生物融合",
+        "造型",
+        "敘事"
+      ],
+      "minutes": 75,
+      "version": 1
+    },
+    {
+      "id": "bio-028",
+      "category": "bio",
+      "level": "挑戰",
+      "title": "四足幻想獸",
+      "description": "結合鹿與豹的特色設計能奔跑的幻想獸。",
+      "requirements": [
+        "四肢關節一致",
+        "頭頸特徵",
+        "體型重心"
+      ],
+      "focus": [
+        "造型融合",
+        "動勢",
+        "結構"
+      ],
+      "minutes": 75,
+      "version": 1
+    },
+    {
+      "id": "bio-029",
+      "category": "bio",
+      "level": "挑戰",
+      "title": "深海發光生物",
+      "description": "創作一種具有發光器官的深海生物。",
+      "requirements": [
+        "發光點位",
+        "漂浮姿態",
+        "深海輪廓"
+      ],
+      "focus": [
+        "光影",
+        "世界觀",
+        "材質"
+      ],
+      "minutes": 75,
+      "version": 1
+    },
+    {
+      "id": "bio-030",
+      "category": "bio",
+      "level": "挑戰",
+      "title": "巨型翼獸降落",
+      "description": "畫翼獸降落斷崖，呈現翅膀減速的動態。",
+      "requirements": [
+        "足爪抓地",
+        "雙翼摺疊",
+        "主體與崖面比例"
+      ],
+      "focus": [
+        "動勢",
+        "敘事",
+        "尺度"
+      ],
+      "minutes": 75,
+      "version": 1
+    },
+    {
+      "id": "bio-031",
+      "category": "bio",
+      "level": "挑戰",
+      "title": "多手臂神話角色",
+      "description": "設計四臂角色正在完成同一個複合動作。",
+      "requirements": [
+        "肩部連接方式",
+        "四臂遮擋",
+        "視線焦點"
+      ],
+      "focus": [
+        "幻想解剖",
+        "構圖",
+        "動態"
+      ],
+      "minutes": 75,
+      "version": 1
+    },
+    {
+      "id": "bio-032",
+      "category": "bio",
+      "level": "挑戰",
+      "title": "人魚水下轉身",
+      "description": "畫人魚從背後轉向鏡頭的水下瞬間。",
+      "requirements": [
+        "脊柱扭轉",
+        "尾鰭體積",
+        "頭髮水流方向"
+      ],
+      "focus": [
+        "動態",
+        "流體",
+        "形體"
+      ],
+      "minutes": 75,
+      "version": 1
+    },
+    {
+      "id": "bio-033",
+      "category": "bio",
+      "level": "挑戰",
+      "title": "森林守護巨獸",
+      "description": "以樹根、岩石與獸類構成有生命的巨獸。",
+      "requirements": [
+        "軀體承重",
+        "表面材質交界",
+        "小人物比例尺"
+      ],
+      "focus": [
+        "材質融合",
+        "體積",
+        "尺度"
+      ],
+      "minutes": 75,
+      "version": 1
+    },
+    {
+      "id": "bio-034",
+      "category": "bio",
+      "level": "挑戰",
+      "title": "生物角色敘事場景",
+      "description": "畫一隻原創生物守護受傷同伴的完整場景。",
+      "requirements": [
+        "雙主角情感",
+        "景深空間",
+        "環境線索"
+      ],
+      "focus": [
+        "敘事",
+        "構圖",
+        "表現力"
+      ],
+      "minutes": 75,
+      "version": 1
+    },
+    {
+      "id": "mecha-001",
+      "category": "mecha",
+      "level": "入門",
+      "title": "機械手骨架",
+      "description": "畫一隻五指機械手，從掌心延伸至指尖。",
+      "requirements": [
+        "掌心關節",
+        "指節伸縮",
+        "關節外露層次"
+      ],
+      "focus": [
+        "結構語言",
+        "線條",
+        "透視"
+      ],
+      "minutes": 25,
+      "version": 1
+    },
+    {
+      "id": "mecha-002",
+      "category": "mecha",
+      "level": "入門",
+      "title": "球型偵察機",
+      "description": "設計一顆能漂浮的球型偵察機器人。",
+      "requirements": [
+        "球面體塊",
+        "主要鏡頭",
+        "開口與分件線"
+      ],
+      "focus": [
+        "形體",
+        "對稱",
+        "細節節奏"
+      ],
+      "minutes": 25,
+      "version": 1
+    },
+    {
+      "id": "mecha-003",
+      "category": "mecha",
+      "level": "入門",
+      "title": "簡易雙足機器人",
+      "description": "設計站立中的小型雙足助手機器人。",
+      "requirements": [
+        "軀幹與骨盆",
+        "腿部活動範圍",
+        "足底平衡"
+      ],
+      "focus": [
+        "比例",
+        "機械關節",
+        "剪影"
+      ],
+      "minutes": 25,
+      "version": 1
+    },
+    {
+      "id": "mecha-004",
+      "category": "mecha",
+      "level": "入門",
+      "title": "機械頭部三視圖",
+      "description": "畫同一款人形機器人的正、側、背面頭部。",
+      "requirements": [
+        "眼部裝置位置",
+        "裝甲分件對齊",
+        "三面比例一致"
+      ],
+      "focus": [
+        "設定一致性",
+        "造型",
+        "結構"
+      ],
+      "minutes": 25,
+      "version": 1
+    },
+    {
+      "id": "mecha-005",
+      "category": "mecha",
+      "level": "入門",
+      "title": "履帶型探測獸",
+      "description": "創作以履帶行動的小型探測機械生物。",
+      "requirements": [
+        "履帶與機體連結",
+        "感測器頭部",
+        "接地陰影"
+      ],
+      "focus": [
+        "運動形式",
+        "輪廓",
+        "空間"
+      ],
+      "minutes": 25,
+      "version": 1
+    },
+    {
+      "id": "mecha-006",
+      "category": "mecha",
+      "level": "入門",
+      "title": "輪式服務機器人",
+      "description": "設計一台飯店接待機器人，兼具親和與功能。",
+      "requirements": [
+        "表情介面",
+        "機體伸縮分層",
+        "輪組遮擋"
+      ],
+      "focus": [
+        "造型",
+        "功能表達",
+        "比例"
+      ],
+      "minutes": 25,
+      "version": 1
+    },
+    {
+      "id": "mecha-007",
+      "category": "mecha",
+      "level": "入門",
+      "title": "機械鳥翅膀",
+      "description": "畫一側展開、一側折疊的機械鳥。",
+      "requirements": [
+        "翅片重疊",
+        "轉軸位置",
+        "羽片與金屬語言"
+      ],
+      "focus": [
+        "機構視覺",
+        "動態",
+        "層次"
+      ],
+      "minutes": 25,
+      "version": 1
+    },
+    {
+      "id": "mecha-008",
+      "category": "mecha",
+      "level": "入門",
+      "title": "液壓腳踝",
+      "description": "近距離畫機甲腳踝與鞋底的運動關係。",
+      "requirements": [
+        "主旋轉軸",
+        "外殼錯層",
+        "足跟足尖接地"
+      ],
+      "focus": [
+        "關節可讀性",
+        "材質",
+        "透視"
+      ],
+      "minutes": 25,
+      "version": 1
+    },
+    {
+      "id": "mecha-009",
+      "category": "mecha",
+      "level": "入門",
+      "title": "機械眼部特寫",
+      "description": "設計有多層虹膜與遮罩的機械眼。",
+      "requirements": [
+        "透鏡同心層",
+        "高光",
+        "外殼陰影"
+      ],
+      "focus": [
+        "同心結構",
+        "光感",
+        "細節"
+      ],
+      "minutes": 25,
+      "version": 1
+    },
+    {
+      "id": "mecha-010",
+      "category": "mecha",
+      "level": "入門",
+      "title": "維修中的機器人",
+      "description": "畫半開外殼、露出內部骨架的機器人胸部。",
+      "requirements": [
+        "外殼厚度",
+        "內部線纜群組",
+        "手臂連接"
+      ],
+      "focus": [
+        "剖露表現",
+        "主次",
+        "機械語言"
+      ],
+      "minutes": 25,
+      "version": 1
+    },
+    {
+      "id": "mecha-011",
+      "category": "mecha",
+      "level": "入門",
+      "title": "人型機甲站姿",
+      "description": "畫一台中型戰鬥機甲，強調功能性剪影。",
+      "requirements": [
+        "肩胸骨盆大體塊",
+        "裝甲節奏",
+        "清楚重心"
+      ],
+      "focus": [
+        "剪影",
+        "比例",
+        "結構"
+      ],
+      "minutes": 25,
+      "version": 1
+    },
+    {
+      "id": "mecha-012",
+      "category": "mecha",
+      "level": "進階",
+      "title": "四足巡邏機器",
+      "description": "設計四足巡邏型機器生物三分之四視圖。",
+      "requirements": [
+        "前後腿分組",
+        "軀幹擺動",
+        "感測頭部"
+      ],
+      "focus": [
+        "四足運動",
+        "透視",
+        "節奏"
+      ],
+      "minutes": 45,
+      "version": 1
+    },
+    {
+      "id": "mecha-013",
+      "category": "mecha",
+      "level": "進階",
+      "title": "機械螳螂",
+      "description": "以螳螂的捕獵動作設計機械獸。",
+      "requirements": [
+        "鐮刀前肢",
+        "細長胸段",
+        "關節分段"
+      ],
+      "focus": [
+        "生物仿生",
+        "動勢",
+        "輪廓"
+      ],
+      "minutes": 45,
+      "version": 1
+    },
+    {
+      "id": "mecha-014",
+      "category": "mecha",
+      "level": "進階",
+      "title": "裝甲肩膀旋轉",
+      "description": "畫機甲抬高手臂時肩甲錯位的瞬間。",
+      "requirements": [
+        "肩甲與上臂間隙",
+        "關節中心",
+        "遮擋順序"
+      ],
+      "focus": [
+        "可動性表現",
+        "空間",
+        "層次"
+      ],
+      "minutes": 45,
+      "version": 1
+    },
+    {
+      "id": "mecha-015",
+      "category": "mecha",
+      "level": "進階",
+      "title": "外骨骼跑者",
+      "description": "設計穿戴動力外骨骼正在疾跑的人。",
+      "requirements": [
+        "人體關節對應",
+        "支撐框架",
+        "速度線控制"
+      ],
+      "focus": [
+        "人體與機械整合",
+        "動態",
+        "比例"
+      ],
+      "minutes": 45,
+      "version": 1
+    },
+    {
+      "id": "mecha-016",
+      "category": "mecha",
+      "level": "進階",
+      "title": "機械獵犬奔跑",
+      "description": "畫奔跑中的機械犬，讓部件跟隨動作旋轉。",
+      "requirements": [
+        "脊背分段",
+        "前後肢角度",
+        "關節外露"
+      ],
+      "focus": [
+        "運動連貫",
+        "結構",
+        "速度"
+      ],
+      "minutes": 45,
+      "version": 1
+    },
+    {
+      "id": "mecha-017",
+      "category": "mecha",
+      "level": "進階",
+      "title": "重裝機甲背視圖",
+      "description": "畫一台背負能源裝置的機甲背面。",
+      "requirements": [
+        "背包與肩甲分層",
+        "脊柱線",
+        "下肢比例"
+      ],
+      "focus": [
+        "背面設計",
+        "層次",
+        "視覺重量"
+      ],
+      "minutes": 45,
+      "version": 1
+    },
+    {
+      "id": "mecha-018",
+      "category": "mecha",
+      "level": "進階",
+      "title": "蒸氣龐克義肢",
+      "description": "設計帶黃銅外殼與皮革束帶的機械前臂。",
+      "requirements": [
+        "腕部連接",
+        "銅與皮革材質",
+        "細節密度控制"
+      ],
+      "focus": [
+        "材質",
+        "造型語言",
+        "層次"
+      ],
+      "minutes": 45,
+      "version": 1
+    },
+    {
+      "id": "mecha-019",
+      "category": "mecha",
+      "level": "進階",
+      "title": "水下機械章魚",
+      "description": "畫有八隻機械觸手的水下探索裝置。",
+      "requirements": [
+        "觸手遠近排列",
+        "中央核心",
+        "懸浮重心"
+      ],
+      "focus": [
+        "複雜重疊",
+        "節奏",
+        "體積"
+      ],
+      "minutes": 45,
+      "version": 1
+    },
+    {
+      "id": "mecha-020",
+      "category": "mecha",
+      "level": "進階",
+      "title": "機械蝴蝶變形",
+      "description": "同頁畫機械蝶收翼與展翼兩個姿態。",
+      "requirements": [
+        "翼片轉動路徑",
+        "身體比例",
+        "前後一致性"
+      ],
+      "focus": [
+        "變形設計",
+        "姿勢",
+        "細節"
+      ],
+      "minutes": 45,
+      "version": 1
+    },
+    {
+      "id": "mecha-021",
+      "category": "mecha",
+      "level": "進階",
+      "title": "雙人共乘機甲",
+      "description": "設計能讓兩人乘坐的步行機械載具。",
+      "requirements": [
+        "駕駛艙可讀性",
+        "人物尺度",
+        "前後腳深度"
+      ],
+      "focus": [
+        "尺度",
+        "造型",
+        "空間"
+      ],
+      "minutes": 45,
+      "version": 1
+    },
+    {
+      "id": "mecha-022",
+      "category": "mecha",
+      "level": "進階",
+      "title": "機甲斬擊動作",
+      "description": "畫巨大機甲揮舞能量刀的動態透視。",
+      "requirements": [
+        "攻擊動勢線",
+        "武器縮短",
+        "足部穩定"
+      ],
+      "focus": [
+        "透視",
+        "速度",
+        "敘事"
+      ],
+      "minutes": 45,
+      "version": 1
+    },
+    {
+      "id": "mecha-023",
+      "category": "mecha",
+      "level": "進階",
+      "title": "城市清潔巨型機器",
+      "description": "設計用於清潔高樓外牆的巨型機器人。",
+      "requirements": [
+        "工具與手臂關聯",
+        "摩天樓尺度",
+        "視覺焦點"
+      ],
+      "focus": [
+        "功能敘事",
+        "尺度",
+        "構圖"
+      ],
+      "minutes": 45,
+      "version": 1
+    },
+    {
+      "id": "mecha-024",
+      "category": "mecha",
+      "level": "挑戰",
+      "title": "仿生龍型機械",
+      "description": "設計可伏地與抬頭的機械龍。",
+      "requirements": [
+        "頸椎節段",
+        "四肢與軀幹",
+        "裝甲輪廓"
+      ],
+      "focus": [
+        "仿生整合",
+        "關節",
+        "剪影"
+      ],
+      "minutes": 75,
+      "version": 1
+    },
+    {
+      "id": "mecha-025",
+      "category": "mecha",
+      "level": "挑戰",
+      "title": "機甲破損表現",
+      "description": "為一台原有機甲加入戰後損傷與露出內層。",
+      "requirements": [
+        "破損厚度",
+        "露出內骨架",
+        "新舊材質對比"
+      ],
+      "focus": [
+        "損傷敘事",
+        "材質",
+        "明暗"
+      ],
+      "minutes": 75,
+      "version": 1
+    },
+    {
+      "id": "mecha-026",
+      "category": "mecha",
+      "level": "挑戰",
+      "title": "模組化變形機械獸",
+      "description": "畫同一隻機械獸的行走與收納兩形態。",
+      "requirements": [
+        "可對應的分件",
+        "關鍵轉軸",
+        "兩姿態一致性"
+      ],
+      "focus": [
+        "變形邏輯",
+        "設計一致性",
+        "構圖"
+      ],
+      "minutes": 75,
+      "version": 1
+    },
+    {
+      "id": "mecha-027",
+      "category": "mecha",
+      "level": "挑戰",
+      "title": "機械巨人俯視",
+      "description": "由高處俯視蹲下的巨型人形機械。",
+      "requirements": [
+        "頭肩透視放大",
+        "足部縮小",
+        "環境比較尺度"
+      ],
+      "focus": [
+        "強透視",
+        "比例",
+        "景深"
+      ],
+      "minutes": 75,
+      "version": 1
+    },
+    {
+      "id": "mecha-028",
+      "category": "mecha",
+      "level": "挑戰",
+      "title": "失控的工業傀儡",
+      "description": "畫機械傀儡從廢墟中站起的電影式一幕。",
+      "requirements": [
+        "多段肢體動作",
+        "煙塵前後景",
+        "明暗焦點"
+      ],
+      "focus": [
+        "場景敘事",
+        "氣氛",
+        "動態"
+      ],
+      "minutes": 75,
+      "version": 1
+    },
+    {
+      "id": "mecha-029",
+      "category": "mecha",
+      "level": "挑戰",
+      "title": "磁浮守護騎士",
+      "description": "創作以懸浮裝甲構成的守護型機械騎士。",
+      "requirements": [
+        "浮動部件間隔",
+        "全身動勢",
+        "發光能量核心"
+      ],
+      "focus": [
+        "設計語言",
+        "空間",
+        "光影"
+      ],
+      "minutes": 75,
+      "version": 1
+    },
+    {
+      "id": "mecha-030",
+      "category": "mecha",
+      "level": "挑戰",
+      "title": "機械母艦與修理臂",
+      "description": "畫巨型維修機器環抱小型飛行器的場景。",
+      "requirements": [
+        "大小對比",
+        "臂節引導視線",
+        "接觸關係"
+      ],
+      "focus": [
+        "尺度",
+        "構圖",
+        "重疊"
+      ],
+      "minutes": 75,
+      "version": 1
+    },
+    {
+      "id": "mecha-031",
+      "category": "mecha",
+      "level": "挑戰",
+      "title": "機械與生物的交界",
+      "description": "設計人體半側逐漸轉變為機械身體的角色。",
+      "requirements": [
+        "左右比例呼應",
+        "皮膚與金屬轉接",
+        "表情核心"
+      ],
+      "focus": [
+        "仿生融合",
+        "材質",
+        "敘事"
+      ],
+      "minutes": 75,
+      "version": 1
+    },
+    {
+      "id": "mecha-032",
+      "category": "mecha",
+      "level": "挑戰",
+      "title": "未來兵器展示版",
+      "description": "設計一名機甲角色，畫完整體與三個局部放大。",
+      "requirements": [
+        "主視圖",
+        "足部或手臂細節",
+        "清楚的視覺標註"
+      ],
+      "focus": [
+        "設計版面",
+        "一致性",
+        "線條"
+      ],
+      "minutes": 75,
+      "version": 1
+    },
+    {
+      "id": "mecha-033",
+      "category": "mecha",
+      "level": "挑戰",
+      "title": "機械文明終章",
+      "description": "畫兩台不同年代的機械巨獸於古城相遇。",
+      "requirements": [
+        "機械造型年代差",
+        "景深尺度",
+        "明確情緒高潮"
+      ],
+      "focus": [
+        "世界觀",
+        "構圖",
+        "表現力"
+      ],
+      "minutes": 75,
+      "version": 1
+    },
+    {
+      "id": "architecture-001",
+      "category": "architecture",
+      "level": "入門",
+      "title": "立方體房屋",
+      "description": "畫一棟簡潔的立方體小屋，用兩點透視建立空間。",
+      "requirements": [
+        "兩組收斂方向",
+        "門窗厚度",
+        "地面接觸"
+      ],
+      "focus": [
+        "兩點透視",
+        "比例",
+        "線條"
+      ],
+      "minutes": 25,
+      "version": 1
+    },
+    {
+      "id": "architecture-002",
+      "category": "architecture",
+      "level": "入門",
+      "title": "走廊消失點",
+      "description": "畫一條長廊盡頭的窗，練習單點透視。",
+      "requirements": [
+        "牆頂地收斂",
+        "連續燈具",
+        "明暗焦點"
+      ],
+      "focus": [
+        "單點透視",
+        "節奏",
+        "光影"
+      ],
+      "minutes": 25,
+      "version": 1
+    },
+    {
+      "id": "architecture-003",
+      "category": "architecture",
+      "level": "入門",
+      "title": "拱門與柱列",
+      "description": "畫三座連續拱門，保持柱距與拱頂變化。",
+      "requirements": [
+        "拱頂弧線",
+        "柱體體積",
+        "前後遮擋"
+      ],
+      "focus": [
+        "節奏",
+        "比例",
+        "透視"
+      ],
+      "minutes": 25,
+      "version": 1
+    },
+    {
+      "id": "architecture-004",
+      "category": "architecture",
+      "level": "入門",
+      "title": "旋轉樓梯",
+      "description": "從側上方畫一座單圈旋轉樓梯。",
+      "requirements": [
+        "踏步方向",
+        "扶手環繞",
+        "中心柱"
+      ],
+      "focus": [
+        "複雜透視",
+        "結構可讀性",
+        "線條"
+      ],
+      "minutes": 25,
+      "version": 1
+    },
+    {
+      "id": "architecture-005",
+      "category": "architecture",
+      "level": "入門",
+      "title": "屋頂坡面練習",
+      "description": "畫一排三種不同坡屋頂的小房屋。",
+      "requirements": [
+        "屋脊方向",
+        "屋簷厚度",
+        "近遠層次"
+      ],
+      "focus": [
+        "幾何",
+        "透視",
+        "節奏"
+      ],
+      "minutes": 25,
+      "version": 1
+    },
+    {
+      "id": "architecture-006",
+      "category": "architecture",
+      "level": "入門",
+      "title": "老街騎樓",
+      "description": "畫一段有招牌與行人的街屋騎樓。",
+      "requirements": [
+        "騎樓柱列",
+        "店面開口",
+        "人物比例"
+      ],
+      "focus": [
+        "環境透視",
+        "尺度",
+        "敘事"
+      ],
+      "minutes": 25,
+      "version": 1
+    },
+    {
+      "id": "architecture-007",
+      "category": "architecture",
+      "level": "入門",
+      "title": "採光中庭",
+      "description": "設計一座有天窗的公共中庭室內場景。",
+      "requirements": [
+        "天窗光束",
+        "樓層挑空",
+        "扶手透視"
+      ],
+      "focus": [
+        "光影",
+        "空間",
+        "構圖"
+      ],
+      "minutes": 25,
+      "version": 1
+    },
+    {
+      "id": "architecture-008",
+      "category": "architecture",
+      "level": "入門",
+      "title": "露臺花園",
+      "description": "畫一座位於城市屋頂的小型花園。",
+      "requirements": [
+        "前景植物",
+        "座椅尺度",
+        "遠景天際線"
+      ],
+      "focus": [
+        "景深",
+        "材質",
+        "構圖"
+      ],
+      "minutes": 25,
+      "version": 1
+    },
+    {
+      "id": "architecture-009",
+      "category": "architecture",
+      "level": "入門",
+      "title": "三點透視高樓",
+      "description": "從街道向上仰望一棟高樓。",
+      "requirements": [
+        "垂直收斂",
+        "窗框重複",
+        "街角前景"
+      ],
+      "focus": [
+        "三點透視",
+        "尺度",
+        "節奏"
+      ],
+      "minutes": 25,
+      "version": 1
+    },
+    {
+      "id": "architecture-010",
+      "category": "architecture",
+      "level": "入門",
+      "title": "玻璃溫室",
+      "description": "畫一座圓頂玻璃溫室，表現透明與骨架。",
+      "requirements": [
+        "弧頂分格",
+        "玻璃反射",
+        "內部植物層次"
+      ],
+      "focus": [
+        "曲面透視",
+        "透明材質",
+        "空間"
+      ],
+      "minutes": 25,
+      "version": 1
+    },
+    {
+      "id": "architecture-011",
+      "category": "architecture",
+      "level": "入門",
+      "title": "日式木造茶屋",
+      "description": "畫帶緣側的木造茶屋及庭石。",
+      "requirements": [
+        "屋簷層次",
+        "木柱比例",
+        "室內外過渡"
+      ],
+      "focus": [
+        "建築語言",
+        "材質",
+        "留白"
+      ],
+      "minutes": 25,
+      "version": 1
+    },
+    {
+      "id": "architecture-012",
+      "category": "architecture",
+      "level": "進階",
+      "title": "哥德尖拱窗",
+      "description": "設計一扇高耸尖拱彩繪玻璃窗。",
+      "requirements": [
+        "尖拱構造語彙",
+        "窗格對稱",
+        "色塊明暗"
+      ],
+      "focus": [
+        "裝飾節奏",
+        "對稱",
+        "光影"
+      ],
+      "minutes": 45,
+      "version": 1
+    },
+    {
+      "id": "architecture-013",
+      "category": "architecture",
+      "level": "進階",
+      "title": "古典圖書館",
+      "description": "畫有高書牆、長桌與拱頂的圖書館內部。",
+      "requirements": [
+        "書架尺寸節奏",
+        "拱頂透視",
+        "視線導向"
+      ],
+      "focus": [
+        "室內透視",
+        "尺度",
+        "氛圍"
+      ],
+      "minutes": 45,
+      "version": 1
+    },
+    {
+      "id": "architecture-014",
+      "category": "architecture",
+      "level": "進階",
+      "title": "地中海海岸房屋",
+      "description": "畫階梯式聚落與海邊的白色房屋。",
+      "requirements": [
+        "白牆陰影",
+        "樓層交疊",
+        "海岸線"
+      ],
+      "focus": [
+        "群體構圖",
+        "明暗",
+        "景深"
+      ],
+      "minutes": 45,
+      "version": 1
+    },
+    {
+      "id": "architecture-015",
+      "category": "architecture",
+      "level": "進階",
+      "title": "工業風舊廠改造",
+      "description": "畫舊磚廠轉變為咖啡館的室內。",
+      "requirements": [
+        "樑柱與磚牆",
+        "桌椅尺度",
+        "新舊材質對比"
+      ],
+      "focus": [
+        "空間敘事",
+        "材質",
+        "光影"
+      ],
+      "minutes": 45,
+      "version": 1
+    },
+    {
+      "id": "architecture-016",
+      "category": "architecture",
+      "level": "進階",
+      "title": "雨夜車站入口",
+      "description": "畫雨天車站入口，強化濕地倒影。",
+      "requirements": [
+        "出入口焦點",
+        "雨棚厚度",
+        "反光地面"
+      ],
+      "focus": [
+        "氣氛",
+        "光影",
+        "透視"
+      ],
+      "minutes": 45,
+      "version": 1
+    },
+    {
+      "id": "architecture-017",
+      "category": "architecture",
+      "level": "進階",
+      "title": "山腰木屋",
+      "description": "畫依山勢懸挑的小木屋與山徑。",
+      "requirements": [
+        "地形接觸",
+        "屋體方向",
+        "比例參考物"
+      ],
+      "focus": [
+        "地形",
+        "構圖",
+        "尺度"
+      ],
+      "minutes": 45,
+      "version": 1
+    },
+    {
+      "id": "architecture-018",
+      "category": "architecture",
+      "level": "進階",
+      "title": "海濱燈塔",
+      "description": "畫風暴夜晚孤立在海崖上的燈塔。",
+      "requirements": [
+        "高低視角",
+        "塔身透視",
+        "光束指向"
+      ],
+      "focus": [
+        "敘事",
+        "比例",
+        "光影"
+      ],
+      "minutes": 45,
+      "version": 1
+    },
+    {
+      "id": "architecture-019",
+      "category": "architecture",
+      "level": "進階",
+      "title": "沙漠集市",
+      "description": "畫綠洲旁由帳篷與土牆構成的集市。",
+      "requirements": [
+        "前景攤位",
+        "人流動線",
+        "日照陰影"
+      ],
+      "focus": [
+        "場景密度",
+        "節奏",
+        "構圖"
+      ],
+      "minutes": 45,
+      "version": 1
+    },
+    {
+      "id": "architecture-020",
+      "category": "architecture",
+      "level": "進階",
+      "title": "中世紀城門",
+      "description": "畫一座有塔樓與吊橋的石造城門。",
+      "requirements": [
+        "城牆厚度",
+        "塔樓遠近",
+        "人與橋尺度"
+      ],
+      "focus": [
+        "石材質感",
+        "透視",
+        "空間"
+      ],
+      "minutes": 45,
+      "version": 1
+    },
+    {
+      "id": "architecture-021",
+      "category": "architecture",
+      "level": "進階",
+      "title": "水上漂浮村落",
+      "description": "設計水面上以棧橋連接的漂浮居所。",
+      "requirements": [
+        "倒影",
+        "步行尺度",
+        "建物錯落"
+      ],
+      "focus": [
+        "世界觀",
+        "空間",
+        "節奏"
+      ],
+      "minutes": 45,
+      "version": 1
+    },
+    {
+      "id": "architecture-022",
+      "category": "architecture",
+      "level": "進階",
+      "title": "地下神殿",
+      "description": "畫深埋地底、有單束天光的巨型神殿。",
+      "requirements": [
+        "體量對比",
+        "光束焦點",
+        "柱列消失"
+      ],
+      "focus": [
+        "戲劇光影",
+        "尺度",
+        "構圖"
+      ],
+      "minutes": 45,
+      "version": 1
+    },
+    {
+      "id": "architecture-023",
+      "category": "architecture",
+      "level": "進階",
+      "title": "雙層空中庭園",
+      "description": "設計兩座建築間以懸空花園相連的場景。",
+      "requirements": [
+        "橋與建物連結",
+        "植物空間",
+        "近中遠層次"
+      ],
+      "focus": [
+        "造型",
+        "空間",
+        "景深"
+      ],
+      "minutes": 45,
+      "version": 1
+    },
+    {
+      "id": "architecture-024",
+      "category": "architecture",
+      "level": "挑戰",
+      "title": "曲面美術館",
+      "description": "設計曲線外殼的未來美術館入口。",
+      "requirements": [
+        "曲面體量",
+        "入口辨識",
+        "周圍人物比例"
+      ],
+      "focus": [
+        "自由曲面",
+        "造型",
+        "尺度"
+      ],
+      "minutes": 75,
+      "version": 1
+    },
+    {
+      "id": "architecture-025",
+      "category": "architecture",
+      "level": "挑戰",
+      "title": "賽博龐克巷弄",
+      "description": "畫雨夜霓虹密集的未來城市巷弄。",
+      "requirements": [
+        "招牌透視",
+        "反射色光",
+        "視覺主題"
+      ],
+      "focus": [
+        "色光",
+        "氛圍",
+        "空間"
+      ],
+      "minutes": 75,
+      "version": 1
+    },
+    {
+      "id": "architecture-026",
+      "category": "architecture",
+      "level": "挑戰",
+      "title": "巨型空中車站",
+      "description": "畫多層飛行載具停靠的未來交通樞紐。",
+      "requirements": [
+        "層次分區",
+        "載具比例",
+        "站體外觀"
+      ],
+      "focus": [
+        "世界觀",
+        "尺度",
+        "透視"
+      ],
+      "minutes": 75,
+      "version": 1
+    },
+    {
+      "id": "architecture-027",
+      "category": "architecture",
+      "level": "挑戰",
+      "title": "懸崖城市",
+      "description": "設計沿峭壁垂直生長的城市聚落。",
+      "requirements": [
+        "垂直通道",
+        "層層平台",
+        "山壁與建物融合"
+      ],
+      "focus": [
+        "空間想像",
+        "節奏",
+        "尺度"
+      ],
+      "minutes": 75,
+      "version": 1
+    },
+    {
+      "id": "architecture-028",
+      "category": "architecture",
+      "level": "挑戰",
+      "title": "機械生命都市",
+      "description": "設計一座建築會像生物伸縮的奇幻街區。",
+      "requirements": [
+        "有機外形",
+        "道路與入口",
+        "動態前後比較"
+      ],
+      "focus": [
+        "生物建築",
+        "想像力",
+        "構圖"
+      ],
+      "minutes": 75,
+      "version": 1
+    },
+    {
+      "id": "architecture-029",
+      "category": "architecture",
+      "level": "挑戰",
+      "title": "被森林吞噬的劇院",
+      "description": "畫一座劇院逐漸被巨木與藤蔓覆蓋。",
+      "requirements": [
+        "建物可辨識輪廓",
+        "植物穿插",
+        "明暗關係"
+      ],
+      "focus": [
+        "自然與人工融合",
+        "材質",
+        "敘事"
+      ],
+      "minutes": 75,
+      "version": 1
+    },
+    {
+      "id": "architecture-030",
+      "category": "architecture",
+      "level": "挑戰",
+      "title": "巨大天體下的聖殿",
+      "description": "畫一座面對巨大行星的高聳聖殿。",
+      "requirements": [
+        "天體與建物尺度",
+        "朝向構圖",
+        "人物視覺參照"
+      ],
+      "focus": [
+        "宏觀尺度",
+        "情緒",
+        "構圖"
+      ],
+      "minutes": 75,
+      "version": 1
+    },
+    {
+      "id": "architecture-031",
+      "category": "architecture",
+      "level": "挑戰",
+      "title": "都市剖面幻想",
+      "description": "以立體剖視方式畫一棟充滿不同生活場景的高樓。",
+      "requirements": [
+        "多層空間一致",
+        "人物活動",
+        "動線連續"
+      ],
+      "focus": [
+        "空間敘事",
+        "分層",
+        "細節"
+      ],
+      "minutes": 75,
+      "version": 1
+    },
+    {
+      "id": "architecture-032",
+      "category": "architecture",
+      "level": "挑戰",
+      "title": "失重空間建築",
+      "description": "設計在低重力環境中多方向生長的居所。",
+      "requirements": [
+        "方向切換",
+        "不同重力線索",
+        "入口辨識"
+      ],
+      "focus": [
+        "空間邏輯",
+        "透視",
+        "創新"
+      ],
+      "minutes": 75,
+      "version": 1
+    },
+    {
+      "id": "architecture-033",
+      "category": "architecture",
+      "level": "挑戰",
+      "title": "文明的最後圖書館",
+      "description": "設計一座末世中保存知識的巨型圖書館全景。",
+      "requirements": [
+        "主體建築焦點",
+        "人物與廢墟尺度",
+        "故事線索"
+      ],
+      "focus": [
+        "建築敘事",
+        "構圖",
+        "氣氛"
+      ],
+      "minutes": 75,
+      "version": 1
+    }
+  ]
+}
